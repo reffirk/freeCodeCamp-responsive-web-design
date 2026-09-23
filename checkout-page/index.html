@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+  </head>
+  <body>
+    <h1>Checkout</h1>
+    <section>    
+      <main>
+        <h2>Your Cart</h2>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="magic cube">
+      </main>
+    </section>
+    <section>    
+      <main>
+        <h2>Payment Information</h2>
+        <form method="POST" action="https://hotel-feedback.freecodecamp.org">
+          <fieldset>
+            <legend>Personal Information</legend>
+            <label for="card-name">Card Name<span aria-hidden="true">*</span></label>
+            <input required type="text" id="card-name" name="card-name" placeholder="e.g., John Doe"/>
+            <label for="card-number">Card Number<span aria-hidden="true">*</span></label>
+            <input required type="text" aria-describedby="card-number-help" id="card-number" name="card-number" placeholder="9999 9999 9999 9999"/>
+            <p id="card-number-help">Lorem Ipsum</p>
+          </fieldset>
+        </form>
+      </main>
+    </section>
+  </body>
+</html>
