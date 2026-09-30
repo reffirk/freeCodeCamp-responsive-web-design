@@ -20,7 +20,7 @@ Usar o freeCodeCamp para revisar os fundamentos de desenvolvimento web, construi
 
 * [x] Primeiros conceitos de HTML
 * [x] HTML avançado
-* [ ] CSS
+* [x] CSS
 * [ ] JavaScript
 * [ ] Projetos
 * [ ] Outros cursos
