@@ -14,7 +14,8 @@ Conforme eu avançar nos cursos, novos conteúdos serão adicionados ao reposit�
 
 ## Objetivo
 
-Usar o freeCodeCamp para revisar os fundamentos de desenvolvimento web, construir uma base sólida e assim avançar para tecnologias mais complexas.
+Algum tempo comecei a estudar programação por conta, mas acabei deixando isso um pouco de lado e mudar um pouco minha area.
+Pretendo usar o freeCodeCamp para revisar os fundamentos de desenvolvimento web, construir uma base sólida e assim avançar para tecnologias mais complexas.
 
 ## Progresso
 
