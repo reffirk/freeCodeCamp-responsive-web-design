@@ -1,0 +1,82 @@
+body {
+  background-color: rosybrown;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*margin-top: -25px;*/
+}
+
+p {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+  border: none;
+}
+
+.bottom-line {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgba(41, 40, 40, 0.425);
+}
+
+a:active {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.business-card {
+  text-align: center;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 300px;
+  font-size: 16px;
+  background-color: rosybrown;
+}
+
+.profile-image {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+footer {
+  font-size: 14px;
+}
+
+address {
+  font-style: normal;
+}
+
+.address {
+  margin-bottom: 5px;
+}
