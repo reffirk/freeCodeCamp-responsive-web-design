@@ -38,7 +38,7 @@ a:focus {
   outline: 2px solid rgba(0, 0, 0, 0.425);
 }
 
-/* CLASSES */
+/*CLASSES*/
 
 .blog-post-card {
   background-color: white;
@@ -88,7 +88,7 @@ a:focus {
   color: #555 !important;
 }
 
-/* FOOTER */
+/*FOOTER*/
 
 footer {
   font-size: 15px;  
